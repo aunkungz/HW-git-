@@ -65,3 +65,15 @@ git commit -m "Fix Bug"
 git status
 git push origin Hotfix
 ```
+
+## Merge โดย จัดการ Pull Request โดย Merge จาก Hotfix ไปยัง Develop และ Master
+
+```
+git co develop
+git pull
+cat README.md
+git co master
+git pull
+cat README.md
+```
+
