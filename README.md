@@ -1,4 +1,4 @@
-#Learn Git
+# Learn Git
 
 # Branch Feature/Register
 
@@ -31,7 +31,7 @@ cat README.md
 git co develop
 git co -b Release/v1.0 
 ```
-##Working . . . Release/v1.0
+## Working . . . Release/v1.0
 
 ```
 git add .
@@ -51,13 +51,13 @@ git pull
 cat README.md
 ```
 
-#HotFix
+# HotFix
 
 ```
 git co -b Hotfix
 
 ```
-##Working ....
+## Working ....
 
 ```
 git add .
